@@ -1,1 +1,1 @@
-# fakenewsdetection-whatsapp-bot
+# Fakenewsdetection-whatsapp-bot
