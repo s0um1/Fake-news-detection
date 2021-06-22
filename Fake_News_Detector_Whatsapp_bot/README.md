@@ -1,2 +1,2 @@
 # FakeNewsBot
-Detects fake news from text only, text from image and identifies morphed images.
+Detects fake news from text, text from images and identifies morphed images.
