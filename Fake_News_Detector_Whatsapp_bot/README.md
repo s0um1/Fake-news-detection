@@ -1,4 +1,4 @@
-# FakeNewsBot
+# Fake News Bot
 Detects fake news from text, from the text of images and also identifies morphed images.
 
 Natural language processing techniques and machine learning algorithms are used to classifty fake news using python libraries. 
